@@ -1,3 +1,6 @@
-# portfolio
+# Portfolio
 
-- Vue 3 + Vite
+- Vue 3
+- Vite
+- Vanilla JS
+- SCSS
